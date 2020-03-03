@@ -2,7 +2,7 @@
 
 ## Business Problem
   - In market , There are so many used car . Company who sell used car except luxery used car want to know which factures are important on selling strategy . How can they determine price of used car . There are too many features like mileage , year of model , color , power , condition etc . 
-[car.png]
+![img](car.png)
   
 
 ## Goal
@@ -11,8 +11,8 @@
 
 ## Result summarty by OLS and qqplot
 
-[ols.png]
-[qqplot.png]
+![ols](ols.png)
+![qqplot](qqplot.png)
 
 ## Data
  - Data is on excel format like Data.xlsx.
