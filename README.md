@@ -2,7 +2,7 @@
 
 ## Business Problem
   - In market , There are so many used car . Company who sell used car except luxery used car want to know which factures are important on selling strategy . How can they determine price of used car . There are too many features like mileage , year of model , color , power , condition etc . 
-![img](car.png){:height="24px" width="48px"}
+![img](trading_in_used_car.png)
   
 
 ## Goal
